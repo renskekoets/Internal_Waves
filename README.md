@@ -64,7 +64,7 @@ Implements the slab model used to investigate wind-driven near-inertial currents
 The notebooks should generally be run in the following order:
 
 1. `adcp_proc.ipynb`
-2. `Analysis_paper1.ipynb`
+2. `Analysis_chapter1.ipynb`
 3. `critical_slope.ipynb`
 4. `slab_model.ipynb`
 
