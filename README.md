@@ -15,7 +15,7 @@ Processes the raw moored ADCP observations and produces time-depth velocity data
 
 ---
 
-### `Analysis_paper1.ipynb`
+### `Analysis_chapter1.ipynb`
 Main analysis notebook containing the majority of calculations, visualisations, and figures used in Paper 1.
 
 Examples include:
