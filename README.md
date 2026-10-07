@@ -1,4 +1,4 @@
-# PhD chapter 2 Analysis Repository
+# Analysis Repository
 
 This repository contains the data processing and analysis workflows used for the study of near-inertial and internal waves around the Kermadec Ridge.
 
