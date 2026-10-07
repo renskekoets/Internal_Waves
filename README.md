@@ -15,8 +15,8 @@ Processes the raw moored ADCP observations and produces time-depth velocity data
 
 ---
 
-### `Analysis_chapter1.ipynb`
-Main analysis notebook containing the majority of calculations, visualisations, and figures used in Paper 1.
+### `analysis.ipynb`
+Main analysis notebook containing the majority of calculations, visualisations, and figures.
 
 Examples include:
 - Data map
@@ -64,7 +64,7 @@ Implements the slab model used to investigate wind-driven near-inertial currents
 The notebooks should generally be run in the following order:
 
 1. `adcp_proc.ipynb`
-2. `Analysis_chapter1.ipynb`
+2. `analysis.ipynb`
 3. `critical_slope.ipynb`
 4. `slab_model.ipynb`
 
